@@ -1,3 +1,7 @@
+.idea
+.envvenv
+npm-debug.log
+
 # Logs
 logs
 *.log
